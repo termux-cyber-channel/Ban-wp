@@ -16,4 +16,3 @@ jobs:
 
       - name: Time Counter
         run: python time.py
-Enter
